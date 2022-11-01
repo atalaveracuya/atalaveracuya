@@ -1,8 +1,5 @@
-- 👋 Hi, I'm @atalaveracuya, Bachelor of Economic Sciences from the Federico Villarreal National University.
-- 👀 I’m interested in social development and research (work, poverty, education, health)
-- 🌱 I'm currently learning Stata, SPSS, Python, R-Rstudio programming languages, processing of large databases (censuses, surveys), econometric models and infographics.
-- 💞️ I'm looking to collaborate on any of these projects
-- 📫 How to reach me atalaveracuya@gmail.com, https://www.linkedin.com/in/atalaveracuya/
+- 👋 Hi, I'm Andrés Talavera Cuya 
+- 📫 How to reach me https://github.com/atalaveracuya/curriculum
 <!---
 atalaveracuya/atalaveracuya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
