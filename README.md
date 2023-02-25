@@ -1,2 +1,2 @@
-- 👋 Hi, I'm Andrés Talavera Cuya 
-- 📫 How to reach me https://github.com/atalaveracuya/curriculum/blob/main/Cv(Markdown).ipynb
+- 👋 Hola. Mi nombre es Andrés Talavera Cuya 
+- 📫 https://atalaveracuya.github.io/curriculum/Cv(Markdown).html
