@@ -1,2 +1,2 @@
 - 👋 Hola. Mi nombre es Andrés Talavera Cuya 
-- 📫 https://atalaveracuya.github.io/curriculum/Cv(Markdown).html
+- 📫 https://atalaveracuya.github.io/ 
